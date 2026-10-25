@@ -1,3 +1,3 @@
 # CI/CD Final Project
 
-**Project Name:** cicd-final-project
+**Project Name:** ci-cd-final-project
